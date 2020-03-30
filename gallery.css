@@ -1,0 +1,10 @@
+body {
+    background: lightblue;
+}
+.navbar-default .navbar-brand {
+    color: deeppink;
+    font-family: 'Liu Jian Mao Cao', cursive;
+}
+.navbar-collapse.collapse body {
+    color: black;
+}
