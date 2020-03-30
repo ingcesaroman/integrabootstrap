@@ -7,6 +7,8 @@
  `<script src="https://code.jquery.com/jquery-3.4.1.js"></script>`
  * Agregar JS\
  `<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"> </script>`
+* Bootstrap responsive on mobile devices\
+ `<meta name="viewport" content="width=device-width, initial-scale=1">`
 
 # Material Adicional
 * Iconos\
@@ -15,4 +17,5 @@
     [Masory](https://masonry.desandro.com/)
     [Isotope](https://isotope.metafizzy.co/)
     [Salvattore](https://salvattore.js.org/) 
-    
+* Recursos para Imagenes [Unsplash](https://unsplash.com/)
+
