@@ -10,7 +10,10 @@
 * Bootstrap responsive on mobile devices\
  `<meta name="viewport" content="width=device-width, initial-scale=1">`
 
-# Material Adicional
+# Bootstrap 4.4
+*   Summary when moving from v3 to v4.4 [Global changes](https://getbootstrap.com/docs/4.4/migration/#global-changes)
+
+## Material Adicional
 * Iconos\
     [Font Aweson](https://fontawesome.com/)
 * Tamplates de Galerias de fotos\
